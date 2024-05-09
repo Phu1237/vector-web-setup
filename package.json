@@ -22,6 +22,7 @@
   },
   "scripts": {
     "vector-setup": "node vector-web-setup.js",
+    "dev": "node vector-web-setup.js server",
     "test": "mocha test/*"
   },
   "author": "Digital Dream Labs",
